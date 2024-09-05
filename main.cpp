@@ -16,3 +16,6 @@ cout << "The discounted price is $" << reducedPrice;
 
   return 0;
 }
+
+
+//This is my edit it should be working. At least I pray it is.
